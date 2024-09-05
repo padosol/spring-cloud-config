@@ -1,5 +1,5 @@
 token:
-  expiration_time: 86400000 # 만료기간 1일
+  expiration_time: 8640 # 만료기간 1일
   secret: fsaklfjwqnlkthncwkqjrlhxeqwjkrhqewjkrxnqwehkjlrxhjkwxhnrkweddd
 
 gateway:
